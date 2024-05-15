@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nerdie03
+- 👋 Hi, I’m Benson Marvellous
 - 👀 I’m interested in Software engineering 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on anything related to software engineering 
